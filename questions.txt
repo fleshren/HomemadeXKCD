@@ -1,0 +1,14 @@
+MORGAN FLESHREN
+
+Q1:How do you center elements using flexbox?
+	display: flex;
+	justify-content: center;
+	align-items: center;
+Q2:How do you generate a random number in Javascript?
+	Math.random()
+Q3:What is an API?
+	Application Programming Interface
+	A middleman for two things to communicate with each other and share data. 
+Q4:How do you use Fetch in JavaScript?
+	fetch("url") //fetch the url
+		.then(response => response.json()) //grab the response of the fetch (a promise) and convert it into json so javascript can parse the info
